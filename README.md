@@ -1,5 +1,7 @@
 # scraping_simple_text_with_selenium
 
+##Steps to learn
+
 ![image](https://github.com/user-attachments/assets/0d638e60-ec1e-4599-bc85-5222628cbad6)
 
 
