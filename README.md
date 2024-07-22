@@ -1,5 +1,8 @@
 # scraping_simple_text_with_selenium
 
+![image](https://github.com/user-attachments/assets/0d638e60-ec1e-4599-bc85-5222628cbad6)
+
+
 ## Importing Libraries
 ![image](https://github.com/user-attachments/assets/945935f9-af88-4e09-835e-9dfe69d7b97e)
 
