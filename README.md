@@ -1,5 +1,12 @@
 # scraping_simple_text_with_selenium
 
+## So, what’s this web scraping thing everyone is talking about?
+
+### Let’s imagine the internet as the world’s largest data center. Have you ever wondered how you could extract
+### useful insights from it? Finding and copy-pasting individual data would take too much time for large-scale work.
+
+The answer lies in the art of web scraping, which involves automated data extraction from websites and databases.
+
 ##Steps to learn
 
 ![image](https://github.com/user-attachments/assets/0d638e60-ec1e-4599-bc85-5222628cbad6)
