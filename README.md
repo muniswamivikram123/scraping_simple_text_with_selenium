@@ -5,7 +5,7 @@
 ### Let’s imagine the internet as the world’s largest data center. Have you ever wondered how you could extract
 ### useful insights from it? Finding and copy-pasting individual data would take too much time for large-scale work.
 
-The answer lies in the art of web scraping, which involves automated data extraction from websites and databases.
+#### The answer lies in the art of web scraping, which involves automated data extraction from websites and databases.
 ![image](https://github.com/user-attachments/assets/232a31c7-0f7c-4d9f-a7f4-b0658e9e968a)
 
 Web scraping is an automated process for extracting data such as codes, links, images, or any other structured data from websites.
@@ -14,8 +14,9 @@ If you still don’t understand it, think about it like this. Imagine that you�
 
 Web scraping is that net or fishing rod. It’s a tool to extract what you need and store it somewhere for analysis or your use case.
 
-In the real world, it’s used for monitoring product prices, lead generation, sentiment analysis, content aggregation, academic research, etc. Some Artificial Intelligence programs also use web scraping techniques to analyze and provide results.
-##Steps to learn
+#### In the real world, it’s used for monitoring product prices, lead generation, sentiment analysis, content aggregation, academic research, etc. Some Artificial Intelligence programs also use web scraping techniques to analyze and provide results.
+
+## Steps to learn
 
 ![image](https://github.com/user-attachments/assets/0d638e60-ec1e-4599-bc85-5222628cbad6)
 
