@@ -10,9 +10,9 @@
 
 Web scraping is an automated process for extracting data such as codes, links, images, or any other structured data from websites.
 
-If you still don’t understand it, think about it like this. Imagine that you’re catching fish (looking for valuable data) in the ocean (on the web). You would use a big net or a fishing rod to catch them.
+## If you still don’t understand it, think about it like this. Imagine that you’re catching fish (looking for valuable data) in the ocean (on the web). You would use a big net or a fishing rod to catch them.
 
-Web scraping is that net or fishing rod. It’s a tool to extract what you need and store it somewhere for analysis or your use case.
+## Web scraping is that net or fishing rod. It’s a tool to extract what you need and store it somewhere for analysis or your use case.
 
 #### In the real world, it’s used for monitoring product prices, lead generation, sentiment analysis, content aggregation, academic research, etc. Some Artificial Intelligence programs also use web scraping techniques to analyze and provide results.
 
